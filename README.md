@@ -4,4 +4,7 @@ This Means the prediction will only work for the eight consistent teams which pl
 There are 3 files namely:
 1.ipl_score_predictor.py
 2.ml_model.pkl
-3.Zephyr_project.ipynb
+3.Prediction_models.ipynb
+
+Step 1:
+Run Prediction_models.ipynb it will give you 
